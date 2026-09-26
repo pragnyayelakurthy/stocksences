@@ -1,0 +1,24 @@
+{
+  "name": "stocksense",
+  "version": "1.0.0",
+  "description": "StockSense – Smart Inventory Management System. Every Item. Every Movement. In Control.",
+  "main": "server.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node server.js",
+    "agy-start": "agy-node server.js"
+  },
+  "engines": {
+    "node": ">=22.5.0"
+  },
+  "keywords": [
+    "inventory",
+    "management",
+    "warehouse",
+    "stocksense",
+    "hackathon",
+    "realtime"
+  ],
+  "author": "StockSense Engineering",
+  "license": "MIT"
+}
